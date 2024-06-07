@@ -1,5 +1,6 @@
 # 🦆 Hello-Huggingface (Img2AudioStory)
-Click [here](https://img-to-audiostory.streamlit.app/) for deployment link
+Click [here](https://img-to-audiostory.streamlit.app/) for deployment link. \
+If out of credits, it will stop working.
 ### Learning Objectives
 I created a simple AI application to learn more about utilizing basic AI tools including:
 - HuggingFace's Transformers and Inference API methods, 
