@@ -5,3 +5,7 @@ langchain_core
 langchain_openai
 requests
 streamlit
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
