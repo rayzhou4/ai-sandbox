@@ -1,4 +1,4 @@
-dotenv
+python-dotenv
 transformers 
 langchain_core.prompts
 langchain_openai
