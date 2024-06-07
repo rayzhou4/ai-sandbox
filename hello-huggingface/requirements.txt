@@ -1,9 +1,8 @@
 python-dotenv
-transformers 
-langchain_core.prompts
+transformers
+langchain
+langchain_core
 langchain_openai
-langchain.schema.output_parser
-langchain.callbacks.tracers
 requests
 os
 streamlit
