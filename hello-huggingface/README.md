@@ -1,4 +1,4 @@
-# 🤗 Hello-Huggingface (Img2AudioStory)
+# 🤗 Img2AudioStory
 Click [here](https://img-to-audiostory.streamlit.app/) for deployment link. \
 If out of credits, it will stop working.
 ### Learning Objectives
